@@ -9,7 +9,7 @@ This fullstack web development roadmap is my personal version and opinion. It is
 ## Table of Contents
 
 1. **[Web Design: HTML, CSS & JS](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Web-Design-HTML-CSS--JS)**<br>
-1. **[PHP Developer Roadmap](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#PHP-Developer-Roadmap)**<br>
+1. **[PHP Developer Roadmap](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#PHP-Development)**<br>
 
 ----------------
 ### Web Design: HTML, CSS & JS
@@ -17,7 +17,8 @@ This fullstack web development roadmap is my personal version and opinion. It is
 |---------------------------------------|-------------------|----------|------------------------------------------|
 | Responsive Travel WebSite             | Bedimcode         | English  | https://youtu.be/YzRDHxbw1RU             |
 
-### PHP Development, ⟶ [Roadmap](https://infinite.education/skillset/PHP_Developer)
+### PHP Development
+### Roadmap ⟶ [Roadmap](https://infinite.education/skillset/PHP_Developer)
 | Resource Name                         | Author / Youtuber | Language | Link                                     |
 |---------------------------------------|-------------------|----------|------------------------------------------|
 | PHP & MYsql Series                    | Yahoo Baba        | Hindi    | https://youtu.be/YzRDHxbw1RU             |
