@@ -18,7 +18,7 @@ This fullstack web development roadmap is my personal version and opinion. It is
 | Responsive Travel WebSite             | Bedimcode         | English  | https://youtu.be/YzRDHxbw1RU             |
 
 ### PHP Development
-### Roadmap ⟶ [Roadmap](https://infinite.education/skillset/PHP_Developer)
+Roadmap ⟶ [Roadmap](https://infinite.education/skillset/PHP_Developer)
 | Resource Name                         | Author / Youtuber | Language | Link                                     |
 |---------------------------------------|-------------------|----------|------------------------------------------|
 | PHP & MYsql Series                    | Yahoo Baba        | Hindi    | https://youtu.be/YzRDHxbw1RU             |
