@@ -8,16 +8,24 @@ This fullstack web development roadmap is my personal version and opinion. It is
 
 ## Table of Contents
 
-1. **[Web Design: HTML, CSS & JS](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Web-Design-HTML-CSS--JS)**<br>
-1. **[PHP Developer Roadmap](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#PHP-Development)**<br>
+1. **[Web Design: HTML & CSS](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Web-Design-HTML--CSS)**<br>
+2. **[Frontend Programming: JavaScript](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Frontend-Programming-JavaScript)**<br>
+3. **[Backend Programming: PHP](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Backend-Programming-PHP)**<br>
 
 ----------------
-### Web Design: HTML, CSS & JS
+### Web Design: HTML & CSS
 | Resource Name                         | Author / Youtuber | Language | Link                                     |
 |---------------------------------------|-------------------|----------|------------------------------------------|
 | Responsive Travel WebSite             | Bedimcode         | English  | https://youtu.be/YzRDHxbw1RU             |
 
-### PHP Development
+### Frontend Programming: JavaScript
+| Resource Name                         | Author / Youtuber         | Language | Link  |
+|---------------------------------------|---------------------------|----------|-------|
+| JavaScript All You Need to Know       | Stack Learner, HM Nayem   | Bangla   | https://youtube.com/playlist?list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1YzRDHxbw1RU  |
+### OOP: JavaScript
+| Object Oriented JavaScript            | Stack Learner, HM Nayem   | Bangla   | https://youtube.com/playlist?list=PL_XxuZqN0xVCW9b7ryupXW69pnG0jzm7b  | 
+| Object Oriented JavaScript            | The Net Ninja, Shaun      | English   | https://youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7  | 
+### Backend Programming: PHP
 Roadmap ⟶ [Roadmap](https://infinite.education/skillset/PHP_Developer)
 | Resource Name                         | Author / Youtuber | Language | Link                                     |
 |---------------------------------------|-------------------|----------|------------------------------------------|
