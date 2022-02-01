@@ -16,19 +16,19 @@ This fullstack web development roadmap is my personal version and opinion. It is
 ### Web Design: HTML & CSS
 | Resource Name                         | Author / Youtuber | Language | Link                                     |
 |---------------------------------------|-------------------|----------|------------------------------------------|
-| Responsive Travel WebSite             | Bedimcode         | English  | https://youtu.be/YzRDHxbw1RU             |
+| Responsive Travel WebSite             | Bedimcode         | English  | [Link ↗](https://youtu.be/YzRDHxbw1RU)   |
 
 ### Frontend Programming: JavaScript
 | Resource Name                         | Author / Youtuber         | Language | Link  |
 |---------------------------------------|---------------------------|----------|-------|
-| JavaScript All You Need to Know       | Stack Learner, HM Nayem   | Bangla   | https://youtube.com/playlist?list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1YzRDHxbw1RU  |
+| JavaScript All You Need to Know       | Stack Learner, HM Nayem   | Bangla   | [Link ↗](https://youtube.com/playlist?list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1YzRDHxbw1RU)  |
 ### OOP: JavaScript
 | Resource Name                         | Author / Youtuber         | Language | Link  |
 |---------------------------------------|---------------------------|----------|-------|
-| Object Oriented JavaScript            | Stack Learner, HM Nayem   | Bangla   | https://youtube.com/playlist?list=PL_XxuZqN0xVCW9b7ryupXW69pnG0jzm7b  | 
-| Object Oriented JavaScript            | The Net Ninja, Shaun      | English   | https://youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7  | 
+| Object Oriented JavaScript            | Stack Learner, HM Nayem   | Bangla   | [Link ↗](https://youtube.com/playlist?list=PL_XxuZqN0xVCW9b7ryupXW69pnG0jzm7b)  | 
+| Object Oriented JavaScript            | The Net Ninja, Shaun      | English   | [Link ↗](https://youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7)  | 
 ### Backend Programming: PHP
 Roadmap ⟶ [Roadmap](https://infinite.education/skillset/PHP_Developer)
 | Resource Name                         | Author / Youtuber | Language | Link                                     |
 |---------------------------------------|-------------------|----------|------------------------------------------|
-| PHP & MYsql Series                    | Yahoo Baba        | Hindi    | https://youtu.be/YzRDHxbw1RU             |
+| PHP & MYsql Series                    | Yahoo Baba        | Hindi    | [Link ↗](https://youtu.be/YzRDHxbw1RU)   |
