@@ -42,7 +42,7 @@ Roadmap ⟶ [Roadmap](https://roadmap.sh/react)
 Roadmap ⟶ [Roadmap](https://infinite.education/skillset/PHP_Developer)
 | Resource Name                         | Author / Youtuber | Language | Link                                     |
 |---------------------------------------|-------------------|----------|------------------------------------------|
-| PHP Basic to Advance | JS Bangladesh, Setu | Bangla | [Link ↗](https://youtube.com/playlist?list=PL4iFnndHldui-0507zycrQBo_HFU8-mi9U) |
+| PHP Basic to Advance | JS Bangladesh, Setu | Bangla | [Link ↗](https://youtube.com/playlist?list=PL4iFnndHldui-0507zycrQBo_HFU8-mi9) |
 | PHP & MYsql Series & Project           | Yahoo Baba        | Hindi    | [Link ↗](https://youtu.be/YzRDHxbw1RU)   |
 ### PHP : OOP
 | Resource Name                         | Author / Youtuber | Language | Link                                     |
