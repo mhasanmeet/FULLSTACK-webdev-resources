@@ -22,7 +22,6 @@ This fullstack web development resources is my personal version and opinion. It 
 | Resource Name                         | Author / Youtuber         | Language | Link  |
 |---------------------------------------|---------------------------|----------|-------|
 | JavaScript DOM                        | Learn With Sumit, Sumit Saha | Bangla   | [Link ↗](https://youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_) |
-|---------------------------------------|---------------------------|----------|-------|
 | JavaScript All You Need to Know       | Stack Learner, HM Nayem   | Bangla   | [Link ↗](https://youtube.com/playlist?list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1YzRDHxbw1RU) |
 ### OOP: JavaScript
 | Resource Name                         | Author / Youtuber         | Language | Link  |
