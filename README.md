@@ -10,13 +10,16 @@ This fullstack web development resources is my personal version and opinion. It 
 
 1. **[Web Design: HTML & CSS](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Web-Design-HTML--CSS)**<br>
 2. **[Frontend Programming: JavaScript](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Frontend-Programming-JavaScript)**<br>
-3. **[Backend Programming: PHP](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Backend-Programming-PHP)**<br>
+3. **[Object Oriented Programming: JavaScript](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#OOP-JavaScript)**<br>
+4. **[Backend Programming: PHP](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Backend-Programming-PHP)**<br>
+4. **[PHP Framework: Laravel](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Backend-Programming-PHP)**<br>
 
 ----------------
 ### Web Design: HTML & CSS
 | Resource Name                         | Author / Youtuber | Language | Link                                     |
 |---------------------------------------|-------------------|----------|------------------------------------------|
-| Responsive Travel WebSite             | Bedimcode         | English  | [Link ↗](https://youtu.be/YzRDHxbw1RU)   |
+| CSS3 for beghinners | JS Bangladesh, Setu | Bangla | [Link ↗](https://youtube.com/playlist?list=PL4iFnndHldugVWLTCHxJPhvKxJPDeYIGa) |
+| Responsive Travel WebSite Project | Bedimcode | English | [Link ↗](https://youtu.be/YzRDHxbw1RU) |
 
 ### Programming Language: JavaScript
 | Resource Name                         | Author / Youtuber         | Language | Link  |
@@ -32,4 +35,10 @@ This fullstack web development resources is my personal version and opinion. It 
 Roadmap ⟶ [Roadmap](https://infinite.education/skillset/PHP_Developer)
 | Resource Name                         | Author / Youtuber | Language | Link                                     |
 |---------------------------------------|-------------------|----------|------------------------------------------|
-| PHP & MYsql Series                    | Yahoo Baba        | Hindi    | [Link ↗](https://youtu.be/YzRDHxbw1RU)   |
+| PHP Basic to Advance | JS Bangladesh, Setu | Bangla | [Link ↗](https://youtube.com/playlist?list=PL4iFnndHldui-0507zycrQBo_HFU8-mi9U)
+| PHP & MYsql Series & Project           | Yahoo Baba        | Hindi    | [Link ↗](https://youtu.be/YzRDHxbw1RU)   |
+
+### PHP Framework: Laravel
+| Resource Name                         | Author / Youtuber | Language | Link                                     |
+|---------------------------------------|-------------------|----------|------------------------------------------|
+| Laravel Blog Project | Bangla, Fahim | Bangla | [Link ↗](https://youtube.com/playlist?list=PLzBl445W4ieu3J3VfpV0hqedk8GqyD5C-)   |
