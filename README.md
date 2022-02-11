@@ -9,10 +9,10 @@ This fullstack web development resources is my personal version and opinion. It 
 ## Table of Contents
 
 1. **[Web Design: HTML & CSS](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Web-Design-HTML--CSS)**<br>
-2. **[Frontend Programming: JavaScript](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Frontend-Programming-JavaScript)**<br>
+2. **[Programming Language: JavaScript](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Programming-Language-JavaScript)**<br>
 3. **[Object Oriented Programming: JavaScript](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#OOP-JavaScript)**<br>
-4. **[Backend Programming: PHP](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Backend-Programming-PHP)**<br>
-4. **[PHP Framework: Laravel](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Backend-Programming-PHP)**<br>
+4. **[Programming Language: PHP](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Programming-Language-PHP)**<br>
+4. **[PHP Framework: Laravel](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#PHP-Framework-Laravel)**<br>
 
 ----------------
 ### Web Design: HTML & CSS
