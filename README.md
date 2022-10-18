@@ -36,8 +36,9 @@ This fullstack web development resources is my personal version and opinion. It 
 
 ### Web Development: Frontend
 To be strong in frontend we need to have clear concept in JavaScript Fundamentals, OOP, functional JavaScript. Then We can move on JavaScript Framework and Library. 
-JavaScript Roadmap ⟶ [Link ↗](https://roadmap.sh/javascript)
-React Roadmap ⟶ [Link ↗](https://roadmap.sh/react)
+
+* JavaScript Roadmap ⟶ [Link ↗](https://roadmap.sh/javascript)
+* React Roadmap ⟶ [Link ↗](https://roadmap.sh/react)
 
 | Resource Name                         | Author / Youtuber         | Language | Link  |
 |---------------------------------------|---------------------------|----------|-------|
@@ -55,7 +56,7 @@ Roadmap ⟶ [Roadmap](https://infinite.education/skillset/PHP_Developer)
 |---------------|-------------------|----------|------|
 | PHP Basic to Advance | JS Bangladesh, Setu | Bangla | [Link ↗](https://youtube.com/playlist?list=PL4iFnndHldui-0507zycrQBo_HFU8-mi9) |
 | PHP & MYsql Series & Project | Yahoo Baba | Hindi | [Link ↗](https://youtu.be/YzRDHxbw1RU) |
-| PHP OOP | Yahoo Baba, Setu | Bangla | [Link ↗](https://youtube.com/playlist?list=PL0b6OzIxLPbwoi6Urr4LZTz2AMMCtzqDt) |
+| PHP OOP | Yahoo Baba| Bangla | [Link ↗](https://youtube.com/playlist?list=PL0b6OzIxLPbwoi6Urr4LZTz2AMMCtzqDt) |
 | Laravel Blog Project | Bangla, Fahim | Bangla | [Link ↗](https://youtube.com/playlist?list=PLzBl445W4ieu3J3VfpV0hqedk8GqyD5C-) |
 
 ### Database
