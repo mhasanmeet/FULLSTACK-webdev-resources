@@ -7,12 +7,12 @@ This fullstack web development resources is my personal version and opinion. It 
 
 ## Table of Contents
 
-1. **[Internet Basics](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#internt-basics)**<br>
-2. **[UI & UX](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#ui-ux)**<br>
-3. **[Web Design: HTML & CSS](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#Web-Design-HTML--CSS)**<br>
-4. **[Web Development: Frontend](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#web-development-frontend)**<br>
-5. **[Web Development: Backend](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#web-development-backend)**<br>
-6. **[Database](https://github.com/mhasanmeet/FULLSTACK-webdev-roadmap#databse)**<br>
+1. **[Internet Basics](https://github.com/mhasanmeet/FULLSTACK-webdev-resources#internet-basics)**<br>
+2. **[UI & UX](https://github.com/mhasanmeet/FULLSTACK-webdev-resources#ui-ux)**<br>
+3. **[Web Design: HTML & CSS](https://github.com/mhasanmeet/FULLSTACK-webdev-resources#web-design-html--css)**<br>
+4. **[Web Development: Frontend](https://github.com/mhasanmeet/FULLSTACK-webdev-resources#web-development-frontend)**<br>
+5. **[Web Development: Backend](https://github.com/mhasanmeet/FULLSTACK-webdev-resources#web-development-backend)**<br>
+6. **[Database](https://github.com/mhasanmeet/FULLSTACK-webdev-resources#database)**<br>
 
 ----------------
 ### Internet Basics
@@ -50,7 +50,7 @@ To be strong in frontend we need to have clear concept in JavaScript Fundamental
 | React JS Real World Projects | Lama Dev | English | [Link ↗](https://youtube.com/playlist?list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8) |
 
 ### Web Development: Backend
-Roadmap ⟶ [Roadmap](https://infinite.education/skillset/PHP_Developer)
+* PHP Roadmap ⟶ [Roadmap](https://infinite.education/skillset/PHP_Developer)
 
 | Resource Name | Author / YouTuber | Language | Link |
 |---------------|-------------------|----------|------|
